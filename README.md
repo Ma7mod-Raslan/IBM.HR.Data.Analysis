@@ -21,8 +21,8 @@ Our team, **ROMA** (Raslan, Omar, Mohammed, Ahmed), collaborated to complete the
 
 ## Team Members:
 - **Mahmoud Raslan**: Dashboards, report writing, presentation creation.
-- **Ahmed Alaa**: Data cleaning, insights in Python, presentation.
-- **Omar Yasser**: Data cleaning, insights in Python, presentation.
-- **Mohammed Sameh**: Dashboards, storytelling, blueprints, presentation.
+- **Ahmed Alaa**: Data cleaning, insights in Python.
+- **Omar Yasser**: Data cleaning, insights in Python.
+- **Mohammed Sameh**: Dashboards, storytelling, blueprints.
 
 Feel free to explore the code and Tableau dashboards for a deeper understanding of our analysis!
